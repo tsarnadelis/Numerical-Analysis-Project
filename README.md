@@ -2,7 +2,7 @@
 
 <p align=center> 
   Project as part of the class Numerical Analysis, 4th Semester at ECE, Aristotle University <br>
-  Usign the given Covid data, and the Runge Kutta 4th order method, calculate constants for candidate and confirmed Covid cases.</b>.<br>
+  Using the given Covid data, and the Runge Kutta 4th order method, calculate constants for candidate and confirmed Covid cases.</b>.<br>
   Included is the Jupyter Notebook and the Project Description<br>
   Made in <b>Google Colaboratory and Jupyter Notebook</b><br> 
   <br>
